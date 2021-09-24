@@ -1,0 +1,14 @@
+{
+  "name": "article-preview-component-master",
+  "version": "1.0.0",
+  "description": "Frontendmentor challenge: Article card",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --w scss -o dist/css/ --recrutive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
